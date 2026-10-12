@@ -1,123 +1,311 @@
-# 👋 Hi, I'm Chetan Agrawal!
+# Olympic Insights Using Data Analytics
 
-### 📊 Aspiring Data Analyst | 🐍 Python Learner | 📈 Power BI Enthusiast
+## 📌 Project Overview
 
-Welcome to my GitHub profile! I'm passionate about **Data Analytics, Data Visualization, and Python Programming**. I enjoy working with data, building interactive dashboards, and developing Python projects to solve practical problems.
+This project analyzes Olympic data to explore medal trends, country performance, athlete achievements, sports and events, host country performance, and gender demographics.
 
----
+The objective was to develop an interactive **Power BI dashboard** that transforms Olympic data into meaningful visual insights and helps users understand performance patterns across countries, athletes, sports, and Olympic editions.
 
-## 🚀 About Me
+The analysis combines medal statistics, athlete-level information, sport-wise performance, host country analysis, and gender-based comparisons to present a comprehensive overview of Olympic history and performance.
 
-- 📊 Interested in Data Analytics and Business Intelligence.
-- 📈 Building interactive dashboards using Microsoft Power BI.
-- 🐍 Learning and applying Python programming concepts.
-- 🧹 Exploring data cleaning, transformation, and visualization.
-- 💡 Focused on improving my analytical and problem-solving skills.
-- 🎯 Goal: To grow as a Data Analyst and create meaningful, data-driven solutions.
+## 🎯 Business Problem
 
----
+Olympic data contains valuable information about countries, athletes, sports, events, and medal achievements. However, understanding historical performance patterns and comparing results across multiple dimensions can be challenging without an effective analytical dashboard.
 
-## 🛠️ Skills & Tools
+This project focuses on answering key analytical questions:
 
-<p>
-  📊 <b>Data Visualization:</b> Microsoft Power BI<br>
-  🐍 <b>Programming:</b> Python<br>
-  📈 <b>Data Analysis:</b> Data Exploration & Reporting<br>
-  🧹 <b>Data Preparation:</b> Power Query, Excel / CSV<br>
-  🧮 <b>Python Libraries:</b> NumPy<br>
-  💻 <b>Development Tools:</b> Jupyter Notebook, GitHub
-</p>
+- How have Olympic medal trends changed over time?
+- Which countries demonstrate strong Olympic performance?
+- How can medal achievements be compared across countries?
+- Which athletes and sports can be explored through performance analysis?
+- How does performance vary across sports and events?
+- What patterns can be explored through host country analysis?
+- How does participation and performance vary by gender?
+- How can Olympic data be presented through interactive visualizations?
 
----
+## 📊 Project Scope
 
-## 📂 My Projects
+The dashboard was designed to provide an interactive view of Olympic performance across six major analytical areas:
 
-### 🏅 1. Olympic Insights Using Data Analytics
+1. Global Medal Overview
+2. Country Insights
+3. Athlete Spotlight
+4. Sport & Event Analysis
+5. Host Country Analysis
+6. Gender & Demographics
 
-**Tools:** Power BI, Power Query, DAX
+The analysis supports exploration of Olympic data through country-level comparisons, athlete insights, sport-wise performance, historical medal patterns, and demographic analysis.
 
-An interactive Power BI dashboard project focused on exploring Olympic data and understanding medal trends, country performance, athletes, sports, host countries, and demographics.
+## 🛠️ Tools & Technologies
 
-**📌 Dashboard Highlights**
-- 🌍 Global Medal Overview
-- 🗺️ Country Insights
-- 🏃 Athlete Spotlight
-- 🏆 Sport & Event Analysis
-- 🌐 Host Country Analysis
-- 👥 Gender & Demographics
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+- CSV Dataset
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- KPI Development
+- Dashboard Development
+- Data Visualization
+- Exploratory Data Analysis
 
-**Key Learning:** Data transformation, interactive dashboard design, KPI development, and visual storytelling.
+## 📄 Dashboard Page 1 — Global Medal Overview
 
----
+### 🎯 Objective
 
-### 🛒 2. Supermarket Billing System
+The first dashboard page provides an overall view of Olympic medal performance and global achievement patterns.
 
-**Tools:** Python, Jupyter Notebook
+### 📌 Key Analytical Areas
 
-A Python-based billing application that simulates a supermarket checkout process.
+- Overall Olympic medal statistics
+- Global medal distribution
+- Medal trends across Olympic editions
+- Comparison of medal achievements
+- Overview of Olympic performance
 
-**📌 Key Features**
-- 🧾 Itemized billing and receipt generation
-- 🔢 Multiple products, prices, and quantities
-- 💰 Conditional discount calculation
-- 🔄 Loop-based item entry
-- 🧮 Automatic subtotal and final amount calculation
+### 🔍 Analysis Performed
 
-**Key Learning:** Python variables, lists, loops, conditional statements, user input, and formatted output.
+- Explored global medal distribution across Olympic data.
+- Analyzed medal trends across available Olympic editions.
+- Examined overall medal performance through interactive visualizations.
+- Presented a high-level overview of Olympic achievements.
+- Enabled users to explore medal patterns using dashboard filters and visuals.
 
----
+## 📄 Dashboard Page 2 — Country Insights
 
-### 🏦 3. Bank Account Management System
+### 🎯 Objective
 
-**Tools:** Python, NumPy, Pickle, JSON
+This page focuses on country-level Olympic performance and medal achievements.
 
-A menu-driven Python application that simulates basic bank account management and financial transactions.
+### 📌 Key Analytical Areas
 
-**📌 Key Features**
-- 👤 Account creation and account details
-- 💵 Deposits and withdrawals
-- 🔁 Fund transfers between accounts
-- 📁 File handling for account data and transaction history
-- 📊 Transaction summaries using NumPy
-- ✅ Input validation and error handling
+- Country-wise medal performance
+- Gold, silver, and bronze medal comparisons
+- Country-level performance trends
+- Comparison of Olympic achievements
+- Medal distribution across participating countries
 
-**Key Learning:** Python functions, dictionaries, loops, exception handling, file handling, and numerical analysis.
+### 🔍 Analysis Performed
 
----
+- Compared medal achievements across countries.
+- Explored country-wise medal distributions.
+- Analyzed differences in Olympic performance.
+- Examined country performance across available Olympic editions.
+- Presented country-level insights to support comparative analysis.
 
-## 📚 Currently Learning
+## 📄 Dashboard Page 3 — Athlete Spotlight
 
-- 📊 Advanced Power BI and DAX
-- 🐍 Python for Data Analytics
-- 🧹 Data Cleaning and Transformation
-- 📈 Data Visualization and Reporting
-- 💼 Real-world Data Analytics Projects
+### 🎯 Objective
 
----
+This page explores athlete-level information and achievements to provide a more detailed view of individual Olympic participation and performance.
 
-## 🎯 My Goals
+### 📌 Key Analytical Areas
 
-- Build practical projects using real-world datasets.
-- Improve my Python and Power BI skills.
-- Develop strong analytical and problem-solving abilities.
-- Create a professional portfolio of data analytics projects.
+- Athlete profiles
+- Individual medal achievements
+- Athlete participation
+- Sport-wise athlete information
+- Athlete performance comparisons
 
----
+### 🔍 Analysis Performed
 
-## 🤝 Let's Connect
+- Explored athlete information available in the dataset.
+- Examined individual Olympic achievements.
+- Analyzed athlete participation across sports and events.
+- Presented athlete-level information through interactive visuals.
+- Enabled users to explore individual performance and achievements.
 
-I'm always interested in learning, collaborating, and exploring new ideas in data analytics.
+## 📄 Dashboard Page 4 — Sport & Event Analysis
 
-📌 **GitHub:** You're already here!
+### 🎯 Objective
 
----
+This page examines Olympic performance across different sports and events.
 
-## 👨‍💻 Author
+### 📌 Key Analytical Areas
+
+- Sport-wise medal distribution
+- Event-level performance
+- Medal achievements across sports
+- Participation across sports and events
+- Comparative sport analysis
+
+### 🔍 Analysis Performed
+
+- Compared medal achievements across different sports.
+- Explored event-level Olympic performance.
+- Examined variations in medal distribution across sports.
+- Analyzed available sport and event information.
+- Presented sport-wise and event-wise comparisons through visualizations.
+
+## 📄 Dashboard Page 5 — Host Country Analysis
+
+### 🎯 Objective
+
+This page focuses on host country information and Olympic performance patterns associated with hosting.
+
+### 📌 Key Analytical Areas
+
+- Host country analysis
+- Olympic edition comparisons
+- Host-related medal performance
+- Country performance across available editions
+- Historical Olympic performance patterns
+
+### 🔍 Analysis Performed
+
+- Explored Olympic host country information.
+- Compared country performance across available Olympic editions.
+- Examined medal performance in the context of hosting.
+- Analyzed historical patterns using available data.
+- Presented host country information through comparative visuals.
+
+## 📄 Dashboard Page 6 — Gender & Demographics
+
+### 🎯 Objective
+
+This page explores gender-related patterns and demographic characteristics within Olympic data.
+
+### 📌 Key Analytical Areas
+
+- Gender-wise participation
+- Gender-based medal distribution
+- Athlete demographics
+- Participation patterns across sports
+- Comparisons across available demographic categories
+
+### 🔍 Analysis Performed
+
+- Examined gender distribution within the available Olympic data.
+- Explored participation patterns across demographic categories.
+- Compared medal achievements by gender.
+- Analyzed gender-related patterns across sports and events.
+- Presented demographic information through interactive visualizations.
+
+## 📈 Key Project Metrics
+
+The dashboard is designed to explore Olympic performance through available dataset measures, including:
+
+- Total medal achievements
+- Gold, silver, and bronze medal distribution
+- Country-wise medal performance
+- Athlete participation and achievements
+- Sport-wise and event-wise performance
+- Host country comparisons
+- Gender-wise participation and performance
+
+*Note: Exact numerical metrics and findings should be reported from the actual Power BI dashboard and underlying dataset. No unverified figures are included here.*
+
+## 💡 Key Insights
+
+The project provides a framework for exploring:
+
+- Global Olympic medal trends and historical performance.
+- Differences in medal achievements across countries.
+- Individual athlete participation and achievements.
+- Medal distribution across sports and events.
+- Host country performance across Olympic editions.
+- Gender-wise participation and medal patterns.
+- Relationships and comparisons across multiple dimensions of Olympic data.
+
+The specific findings depend on the data, filters, and visualizations used in the dashboard.
+
+## 💼 Business Impact
+
+Although Olympic analytics is primarily a sports analytics use case, the dashboard demonstrates how data visualization can support structured analysis and reporting.
+
+The project enables users to:
+
+- Compare Olympic performance across countries.
+- Explore medal distribution and historical trends.
+- Analyze athletes, sports, and events.
+- Examine host country performance.
+- Understand gender and demographic patterns.
+- Interact with data through Power BI filters and visualizations.
+- Convert complex datasets into accessible analytical insights.
+
+## 🚀 Project Outcome
+
+Developed a **six-page interactive Power BI dashboard** to analyze Olympic data across global medal performance, country insights, athlete achievements, sports and events, host country analysis, and gender demographics.
+
+The project demonstrates the application of data cleaning, transformation, analytical modeling, KPI development, and data visualization to organize Olympic information into an interactive reporting solution.
+
+The dashboard provides a structured approach to exploring Olympic performance and identifying patterns across countries, athletes, sports, events, and demographic categories.
+
+## 📚 Key Skills Demonstrated
+
+### 📊 Data Analytics
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Comparative Analysis
+- Trend Analysis
+- KPI Analysis
+- Data Interpretation
+
+### 📈 Power BI
+
+- Interactive Dashboard Development
+- Data Visualization
+- Power Query
+- DAX
+- Data Modeling
+- KPI Development
+- Interactive Reporting
+
+### 🏅 Olympic Data Analytics
+
+- Medal Trend Analysis
+- Country Performance Analysis
+- Athlete Performance Analysis
+- Sport & Event Analysis
+- Host Country Analysis
+- Gender & Demographic Analysis
+
+### 📗 Data Preparation & Reporting
+
+- Microsoft Excel
+- CSV Data Handling
+- Data Preparation
+- Analytical Reporting
+- Visual Storytelling
+
+## 📂 Repository Structure
+
+```text
+olympic-insights-using-data-analytics/
+│
+├── Dataset/
+│   └── Olympic_Dataset.csv
+│
+├── Dashboard/
+│   └── Olympic_Insights_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── Global_Medal_Overview.png
+│   ├── Country_Insights.png
+│   ├── Athlete_Spotlight.png
+│   ├── Sport_Event_Analysis.png
+│   ├── Host_Country_Analysis.png
+│   └── Gender_Demographics.png
+│
+└── README.md
+```
+
+*Repository structure is a suggested layout. Update the file and folder names to match the actual files you upload.*
+
+## 👤 Author
 
 **Chetan Agrawal**
 
-*Aspiring Data Analyst | Power BI Enthusiast | Python Learner*
+Data Analyst | Excel | SQL | Power BI | Python
 
----
+## 🏷️ Project Type
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects and follow my learning journey.*
+Data Analytics | Power BI Dashboard | Sports Analytics | Olympic Data Analysis | Data Visualization
+
+## ⭐ Key Takeaway
+
+This project demonstrates how Power BI and data analytics can transform Olympic data into interactive visualizations that make medal trends, country performance, athlete achievements, sports and events, host country patterns, and gender demographics easier to explore and understand.
